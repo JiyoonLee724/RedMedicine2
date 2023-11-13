@@ -32,7 +32,7 @@
 <details>
 <summary>ERD 이미지</summary>
     
-[![쿡팡 erd구성](./WebContent/assets/img/erdImg/cookpangERD3.png)](https://dbdiagram.io/d/642008425758ac5f17242b13)
+![ERD설계도](https://github.com/JiyoonLee724/RedMedicine2/assets/141670563/988b321a-186e-4c4a-acb4-acea24a4f9e8)
 
 </details>
 
@@ -41,7 +41,8 @@
 - **Springboot**
 - **Oracle**
 - **Thymeleaf**
-- ****
+- **Intellij**
+- **jQuery**
 
 ## 나의 작업
 ### 관리자 페이지 <a href="https://github.com/gimdaeyeon/cookpang/wiki/%EA%B4%80%EB%A6%AC%EC%9E%90-%ED%8E%98%EC%9D%B4%EC%A7%80"> 기능소개 WIKI로 이동</a>
